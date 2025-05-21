@@ -1,7 +1,7 @@
 
-🏏 IPL 2024 Auction Analysis Using PandasAI
+##🏏 IPL 2024 Auction Analysis Using PandasAI
 
-📌 Overview
+##📌 Overview
 This project presents an exploratory and visual analysis of the IPL 2024 auction data, leveraging the power of PandasAI—an AI-enhanced framework built on top of Pandas—to generate intelligent insights using natural language queries. By automating complex data analysis tasks, this project aims to simplify sports analytics and uncover key auction trends.
 
 🚀 Project Highlights
