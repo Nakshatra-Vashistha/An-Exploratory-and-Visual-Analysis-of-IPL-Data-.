@@ -3,7 +3,7 @@
 ### A Data Science Project 📊  
 
 
-![IPL Header](./src/img/header.png)  
+![IPL Header](./src/header/2025_IPL_logo.png)  
   
 **Indian Premier League**   
 This project was opened initially to track and pridict for the IPL 2020. Now, we aim to take it forward for 2021 as well.  
