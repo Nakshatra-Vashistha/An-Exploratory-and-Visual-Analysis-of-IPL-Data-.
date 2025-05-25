@@ -2,15 +2,6 @@
 
 ### A Data Science Project 📊  
 
- <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-![All Contributors](https://img.shields.io/github/contributors/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->  
-  
-![Issues](https://img.shields.io/github/issues/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
-![Pull Requests](https://img.shields.io/github/issues-pr/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Team-thedatatribune/IPL-Analysis?style=for-the-badge)
-
 
 ![IPL Header](./src/img/header.png)  
   
