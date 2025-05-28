@@ -52,37 +52,7 @@ Let's know your ideas as well....
 
 ## Folder Convention 
 
-├── README.md                    # Project overview and guide
-│
-├── LICENSE.md                   # Project license information
-│
-├── contributors.md              # List of all contributors
-│
-├── Visualizations.md            # Documentation and insights from visual data
-│
-├── Stats                        # Statistical insights across IPL seasons
-│   │
-│   ├── Stats2020.md             # Insights from IPL 2020
-│   ├── Stats2021.md             # Insights from IPL 2021
-│   └── ...                      # Add more stats for other seasons
-│
-├── Datasets                     # All available raw datasets
-│   │
-│   ├── deliveries.csv
-│   ├── matches.csv
-│   ├── players.csv
-│   └── ...                      # Add more datasets if needed
-│
-├── Details                      # Description and metadata of datasets
-│   │
-│   ├── deliveries.md
-│   ├── matches.md
-│   ├── players.md
-│   └── ...                      # Add more descriptions for new datasets
-│
-└── src                          # Optional source code, contribution guide, assets
-    ├── header                   # Project banner/logo images
-    └── contributionGuide.md     # Guide for new contributors
+![IPL Header](./src/header/2025_IPL_logo.png)
 
 
 
