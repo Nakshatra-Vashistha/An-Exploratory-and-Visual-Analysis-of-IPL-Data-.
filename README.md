@@ -28,10 +28,6 @@ c) We can make a ML model to predict the final ranking of the teams in points-ta
 Let's know your ideas as well....
 -->
   
-## Wanna Contribute? ✨
-  
-It'd be great to join us and work toward some outstanding Data Science & AI/ML projects.  
-Let's introduce a quick guide to being towards the contribution!!  
 
 ### Getting Started 🐢
 
@@ -39,8 +35,8 @@ Let's introduce a quick guide to being towards the contribution!!
  Have a glimpse below:  
 
  1. **Grab the Data:**  
- Explore the various datasets available in the [```Datasets```](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) directory.  
- You can contribute by adding your own dataset to this branch, as well!!  
+ Explore the various datasets available in the Kaggle directory.  
+ 
 
  2. **Code Parallelly**  
  Find the dataset that interests you and begin with the codes to analyse the data.  
