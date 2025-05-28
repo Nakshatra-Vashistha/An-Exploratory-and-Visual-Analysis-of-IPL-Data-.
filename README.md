@@ -57,12 +57,6 @@ Let's know your ideas as well....
 
 
   
-### Contribution Guide 📚  
-
-We have got a range of contributors, since we've started with this peoject. In fact you can explore our [contributors' list](./contributors.md) to know about them!  
-If you too wish to be in our contributors' list, it'd be our pleasure 😃   
-It involves a sequence of easy and simple steps to be there! So, head towards our [contribution guide](./src/contributionGuide.md) right now to give your contribution!!  
-
 ## License ⚖️
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
