@@ -28,10 +28,6 @@ c) We can make a ML model to predict the final ranking of the teams in points-ta
 Let's know your ideas as well....
 -->
   
-## Wanna Contribute? ✨
-  
-It'd be great to join us and work toward some outstanding Data Science & AI/ML projects.  
-Let's introduce a quick guide to being towards the contribution!!  
 
 ### Getting Started 🐢
 
@@ -39,8 +35,8 @@ Let's introduce a quick guide to being towards the contribution!!
  Have a glimpse below:  
 
  1. **Grab the Data:**  
- Explore the various datasets available in the [```Datasets```](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination) directory.  
- You can contribute by adding your own dataset to this branch, as well!!  
+ Explore the various datasets available in the Kaggle directory.  
+ 
 
  2. **Code Parallelly**  
  Find the dataset that interests you and begin with the codes to analyse the data.  
@@ -54,64 +50,13 @@ Let's introduce a quick guide to being towards the contribution!!
  If you are confident enough in some other field say documentation/content-presentation or enhencement, you are most welcome.  
  You can also contribute with any other work, apart from those which are mentioned above. Just, make sure they are relavent to this project.
 
-### Folder Conventions 📂
-    ├── Visualizations.md       # Documentations for visualizations
-    │   
-    ├── Stats                   # Stats holding directory
-    │   │
-    │   ├── Stats2020.md        # Previous stats on IPL-2020 
-    │   │
-    │   ├── Stats2021.md        # Previous stats on IPL-2021 
-    │   .
-    │   .
-    │   └── ...     
-    │
-    │
-    ├── contributors.md         # All contributors' list
-    │
-    ├── README.md                  
-    │
-    └── ...
-```
-  
-_Folder structure conventions_ for the **dataset-defination** branch of this project:   
-  
-```
-    .
-    .
-    ├── Datasets                # All available datasets
-    │   │
-    │   ├── deliveries.csv  
-    │   │
-    │   ├── matches.csv  
-    │   │
-    │   ├── players.csv  
-    │   .
-    │   .
-    │   └── ...   
-    │
-    ├── Details                 # Datasets' detailed description
-    │   │
-    │   ├── deliveries.md  
-    │   │
-    │   ├── matches.md  
-    │   │
-    │   ├── players.md  
-    │   .
-    │   .
-    │   └── ...   
-    │
-    ├── README.md  
-    │
-    └── ...
-```  
-  
-### Contribution Guide 📚  
+## Folder Convention 
 
-We have got a range of contributors, since we've started with this peoject. In fact you can explore our [contributors' list](./contributors.md) to know about them!  
-If you too wish to be in our contributors' list, it'd be our pleasure 😃   
-It involves a sequence of easy and simple steps to be there! So, head towards our [contribution guide](./src/contributionGuide.md) right now to give your contribution!!  
+![IPL Header](./src/header/conve.png)
 
+
+
+  
 ## License ⚖️
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
